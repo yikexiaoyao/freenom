@@ -1,6 +1,5 @@
 <div align="center">  
 <h1>Freenom：freenom域名自动续期</h1>
-
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.2-brightgreen.svg?style=for-the-badge)](https://secure.php.net/)
 [![Scrutinizer Code Quality](https://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
@@ -63,7 +62,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 <details>
     <summary>设置Gmail</summary>
 <br>
-  
+
 1、在`设置>转发和POP/IMAP`中，勾选
 - 对所有邮件启用 POP 
 - 启用 IMAP
